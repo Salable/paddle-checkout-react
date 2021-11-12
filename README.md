@@ -98,4 +98,4 @@ const StoreDemo: FC<{ handleCancel: () => void }> = ({ handleCancel }) => {
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE](https://github.com/joshokoro/paddle-checkout-react/LICENSE) file for more info.
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/joshokoro/paddle-checkout-react//blob/main/LICENSE) file for more info.
