@@ -1,0 +1,14 @@
+
+# dependencies
+node_modules
+
+# build
+build
+lib
+dist
+
+# misc
+.github
+.idea
+.vscode
+.*config.*

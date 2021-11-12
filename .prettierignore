@@ -1,0 +1,15 @@
+
+# dependencies
+node_modules
+
+# build
+build
+lib
+dist
+
+# misc
+coverage
+.github
+.idea
+.vscode
+.idea
