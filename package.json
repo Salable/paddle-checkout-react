@@ -9,7 +9,7 @@
     "source": "src/index.tsx",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/joshokoro/paddle-checkout-react.git"
+        "url": "git+https://github.com/Salable/paddle-checkout-react.git"
     },
     "keywords": [
         "Salable",
@@ -19,9 +19,9 @@
         "checkout"
     ],
     "bugs": {
-        "url": "https://github.com/joshokoro/paddle-checkout-react/issues"
+        "url": "https://github.com/Salable/paddle-checkout-react/issues"
     },
-    "homepage": "https://github.com/joshokoro/paddle-checkout-react#readme",
+    "homepage": "https://github.com/Salable/paddle-checkout-react#readme",
     "scripts": {
         "test:unit": "jest",
         "build": "rollup -c",
