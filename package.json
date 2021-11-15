@@ -1,6 +1,6 @@
 {
     "name": "@salable/paddle-checkout-react",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Paddle checkout library",
     "author": "Salable",
     "license": "MIT",
