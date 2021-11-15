@@ -76,10 +76,10 @@ const ProductsDemo = () => {
     <>
       <h2>Products</h2>
       <p>
-        PC4J Cloud Pro <button onClick={handleBuy(paddlePlanId)}>Buy</button>
+        Pro <button onClick={handleBuy(paddlePlanId)}>Buy</button>
       </p>
       <p>
-        PC4J Cloud Lite <button onClick={handleBuy(paddlePlanId)}>Buy</button>
+        Lite <button onClick={handleBuy(paddlePlanId)}>Buy</button>
       </p>
       {selectedProductId ? <StoreDemo handleCancel={handleCancel} /> : null}
     </>
